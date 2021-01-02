@@ -1,0 +1,17 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.9.2",
+    "fastify-plugin": "^3.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
